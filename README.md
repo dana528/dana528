@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Hi there,
 
 I am Danushika Wijesinghe.
+
 [![Danushika's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dana528&hide=prs&show_icons=true&theme=radical)](https://github.com/Tharushi-Chethana)
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dana528&layout=compact&theme=radical)](https://github.com/dana528)
 
