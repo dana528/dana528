@@ -22,3 +22,13 @@ I am Danushika Wijesinghe.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana528)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dana528&layout=compact&theme=tokyonight)](https://github.com/Ishini99)
+
+
+
+
+
+
+[![Danushika's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dana528&hide=prs&show_icons=true&theme=radical)](https://github.com/Tharushi-Chethana)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dana528&layout=compact&theme=radical)](https://github.com/dana528)
+
