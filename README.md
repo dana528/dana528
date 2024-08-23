@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 👋 Hi, I’m Danushika Wijesinghe.
-👀 I’m interested in Coding.
-🌱 I’m currently learning Computer Science.
+👀 I’m interested in bothe SE and QA.
+🌱 I’m currently doing software engineering intern.
 
 
 
